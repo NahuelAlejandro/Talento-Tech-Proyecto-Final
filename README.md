@@ -1,8 +1,3 @@
-Perfecto.
-Aquí tenés el **README completamente formateado en Markdown**, profesional, con emojis, tablas, endpoints, respuestas y toda la info del proyecto lista para copiar y pegar en GitHub.
-
----
-
 # 🌐 Talento Tech – Proyecto Final
 
 API REST desarrollada en **Node.js** para la gestión de productos y autenticación de usuarios. Incluye endpoints públicos y protegidos, manejo de errores y estructura modular escalable.
